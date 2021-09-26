@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Wrapper = styled.section`
+  z-index: 10;
   width: 100vw;
   height: 100vh;
   background-size: cover;
